@@ -1,11 +1,10 @@
 
-BOT_TOKEN = ''      # Токен бота
+BOT_TOKEN = '1767170682:AAGcPz34EftkFNQgv9TcvMKyCXuSJMgr9m0'
 
-CODE_ACCESS = 'TEST'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
-
-BOT_LOGIN = ''          # login бота, например: telegram_bot
-
-ADMIN_ID = 0       # id админа
+CODE_ACCESS = 'TEST'
+BOT_LOGIN = 'nadzorkanala_bot'
+eleg
+ADMIN_ID = 0 1323190262
 
 QIWI_NUMBER = '+77777777777'    # номер киви
 QIWI_TOKEN = ''     # токен киви
