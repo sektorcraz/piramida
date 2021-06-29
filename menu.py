@@ -1,6 +1,3 @@
-from telebot import types
-
-
 menu_access_no = types.InlineKeyboardMarkup(row_width=3)
 menu_access_no.add(
     types.InlineKeyboardButton(text='Купить доступ', callback_data='buy_access'),                       # +
